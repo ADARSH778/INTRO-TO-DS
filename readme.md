@@ -1,7 +1,7 @@
 # 19AI403 ASSIGNMENT-LAB INTRODUCTION
-### Prepared By : K SANTHAN KUMAR
-### Register Number : 212223240065
-### DEPT : AIML 2nd YEAR
+### Prepared By : ADARSH CHOWDARY REDDINENI
+### Register Number : 212223040166
+### DEPT : CSE
 
 ## Requirements :
 
